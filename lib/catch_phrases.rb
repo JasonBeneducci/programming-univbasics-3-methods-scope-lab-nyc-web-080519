@@ -13,3 +13,6 @@ def link
   puts catchphrase
 end
 
+def any_phrase
+  
+end
