@@ -1,4 +1,4 @@
 def link 
-  catchphrase = "it's dangerous to go alone, take this!"
+  catchphrase = "It's dangerous to go alone! Take this."
   puts catchphrase
 end
